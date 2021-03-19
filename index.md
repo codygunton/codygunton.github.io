@@ -1,1 +1,1 @@
-Thanks for visiting my website! For now, I use this site to extend what I can do with my GitHub account (specifically, I want to be able to share interactive plots [as I do here](/WSB-postsx)), but check back later for a blog or more in-depth summaries of my work.
+Thanks for visiting my website! For now, I use this site to extend what I can do with my GitHub account (specifically, I want to be able to share interactive plots [as I do here](/WSB-posts)), but check back later for a blog or more in-depth summaries of my work.
