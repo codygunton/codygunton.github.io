@@ -1,1 +1,1 @@
-This will go on the main page.
+Thanks for visiting my website! For now, I use this site to extend what I can do with my GitHub account (specifically, I want people to be able to have some fun with a plot I made), but check back later for a blog or more in-depth summaries of my work.
